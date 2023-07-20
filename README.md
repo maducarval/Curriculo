@@ -1,2 +1,2 @@
-# Curriculo
-Meu curriculo
+# Portfólio
+Meu Portfólio
